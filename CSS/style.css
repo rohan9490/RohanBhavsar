@@ -1,0 +1,22 @@
+body{
+    
+    background-image: url("../IMG-3152.jpg");
+    background-size:cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.mohan {
+    background-color: burlywood;
+}
+h1 {
+    color: darkorchid;
+    font-size: 14px;
+}
+p.rohan
+{
+    color: aqua;
+}
+p{
+    color: brown;
+}
